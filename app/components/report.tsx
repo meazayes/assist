@@ -108,10 +108,12 @@ const ReportPage = () => {
         </div>
       </div>
 
+
+
       <form onSubmit={handleSubmit} className="space-y-5">
         <Card>
           <CardHeader className="pb-3">
-            <CardTitle className="text-base">General Info</CardTitle>
+            <CardTitle className="text-base">General</CardTitle>
           </CardHeader>
           <CardContent className="space-y-4">
             <div>
